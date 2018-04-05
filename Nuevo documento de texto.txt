@@ -1,0 +1,11 @@
+ciclo vida componentes angular
+
+binding angular2
+
+
+
+recordar hacer     ng serve       con la terminal en la carpeta del projecto
+
+
+
+ng generate class "nombre de clase a crear"
